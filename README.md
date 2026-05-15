@@ -18,7 +18,7 @@ It consists of:
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YoussefAbdelnasser11/face-Mask-Detection-using-CNN.git
+git clone https://github.com/elqady74/face-Mask-Detection-using-CNN.git
 cd face-Mask-Detection-using-CNN
 ```
 
