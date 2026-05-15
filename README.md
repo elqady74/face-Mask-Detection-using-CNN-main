@@ -104,6 +104,6 @@ This project is licensed under the **MIT License**.
 
 ---
 ### 🔗 Connect with Me
-- **LinkedIn:** [Yousef Abdalnasser](https://www.linkedin.com/in/yousefabdalnasser)
+- **LinkedIn:** [Ahmed Elqady](www.linkedin.com/in/ahmed-elkady-0180a7361)
 
 🔹 *If you find this project useful, don't forget to ⭐ the repo!*
